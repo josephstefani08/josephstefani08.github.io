@@ -1,42 +1,42 @@
 [
   {
-    "Id": 1,
+    "Id": "1",
     "Name": "Test 1",
     "Description": "This is test 1",
     "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
   },
   {
-    "Id": 2,
+    "Id": "2",
     "Name": "Test 2",
     "Description": "This is test 2",
     "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
   },
   {
-    "Id": 3,
+    "Id": "3",
     "Name": "Test 3",
     "Description": "This is test 3",
     "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
   },
   {
-    "Id": 4,
+    "Id": "4",
     "Name": "Test 4",
     "Description": "This is test 4",
     "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
   },
   {
-    "Id": 5,
+    "Id": "5",
     "Name": "Test 5",
     "Description": "This is test 5",
     "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
   },
   {
-    "Id": 6,
+    "Id": "6",
     "Name": "Test 6",
     "Description": "This is test 6",
     "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
   },
   {
-    "Id": 7,
+    "Id": "7",
     "Name": "Test 7",
     "Description": "This is test 7",
     "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
